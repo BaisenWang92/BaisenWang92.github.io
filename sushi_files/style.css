@@ -1,0 +1,57 @@
+.menu {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+	text-align: center;
+}
+.menus {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #000000;
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFC;
+	font-weight: lighter;
+}
+.price {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+.Copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFCCCC;
+	font-weight: lighter;
+}
+.menuNumber {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FF6600;
+	text-align: center;
+}
+.link {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-weight: normal;
+	height: 5px;
+	color: #FFC;
+}
+.menub {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-weight: normal;
+	color: #FFFFCC;
+	text-align: center;
+}
+.location {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #f3d9d3;
+	text-decoration: underline;
+}
